@@ -323,7 +323,7 @@ def main() -> None:
     st.markdown(
         """
         <div class="hud">
-            <h1>2048</h1>
+            <h1>2048 Vibecoding</h1>
             <p>Keyboard-only controls. Use the arrow keys or <strong>W A S D</strong> to move.</p>
             <p>Press <strong>N</strong> to start a new game. Keep the browser tab focused while playing.</p>
         </div>
